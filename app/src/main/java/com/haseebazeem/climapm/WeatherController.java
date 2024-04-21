@@ -35,7 +35,7 @@ public class WeatherController extends AppCompatActivity {
 
     final String WEATHER_URL = "http://api.openweathermap.org/data/2.5/weather";
     // App ID to use OpenWeather data
-    final String APP_ID = "f8ba4f886636bd9616e1325e41083404";
+    final String APP_ID = "3d5c69a27e2610114292a4aea7add97b";
     // Time between location updates (5000 milliseconds or 5 seconds)
     final long MIN_TIME = 5000;
     // Distance between location updates (1000m or 1km)
